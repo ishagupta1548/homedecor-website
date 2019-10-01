@@ -4,6 +4,7 @@ header,
 #intro {
     height: 100%;
     font-family: 'Montserrat', sans-serif;
+    background-color: #f5f5f5;
 }
 #intro {
     background: url("https://imgur.com/YtjZrzZ.jpg")no-repeat center center fixed;
@@ -45,5 +46,5 @@ header,
 
 #portico{
     
-    background-color: #eeeeee;
+    background-color: #f5f5f5;
 }
