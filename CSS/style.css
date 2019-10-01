@@ -1,0 +1,31 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+#intro {
+    background: url("https://imgur.com/YtjZrzZ.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#portico{
+    
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #d4e157;
+}
+
+.heading-style{
+    font-family: 'Bitter', serif;
+}
+
+
+
+
